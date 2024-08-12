@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.23)
+cmake_minimum_required(VERSION 3.21)
 project(fmangle C Fortran)
 add_definitions(${COMMON_DEFS})
 set(CMAKE_VERBOSE_MAKEFILE ON)
